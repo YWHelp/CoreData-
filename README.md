@@ -41,4 +41,4 @@ CoreData简单创建流程
 
 2.5 将持久化存储协调器赋值给托管对象上下文，完成基本创建。
 
-初识CoreData ----> http://www.cocoachina.com/ios/20160729/17245.html
+初识CoreData ----> 可以参考：http://www.cocoachina.com/ios/20160729/17245.html
